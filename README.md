@@ -1,4 +1,4 @@
-# pokemonbattlesim
+# pokemon-battle-sim
 A Python coded, "battle-simulator" game based on the Pokémon game franchise and text-based Linux games such as "Trek"
 
 Instructions:
